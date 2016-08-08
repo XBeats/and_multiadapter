@@ -6,8 +6,9 @@ Features
 1. 将所有ItemView类型区分为HeaderView，CommonView,FooterView和常常被忽略的EmptyView
 2. ItemType有HeaderViewHolder，CommonViewHolder,FooterViewHolder和EmptyViewHolder,并自动区分ItemType
 3. 在多种类型中，需要设计每种的item子类型  
-![image](./screenshot/ItemType.png)  
-![image](./screenshot/type.png)
+![image](https://raw.githubusercontent.com/XBeats/and_multiadapter/master/screenshot/ItemType.png)  
+![image](https://raw.githubusercontent.com/XBeats/and_multiadapter/master/screenshot/type.png)  
+
 Usage
 --------
 
