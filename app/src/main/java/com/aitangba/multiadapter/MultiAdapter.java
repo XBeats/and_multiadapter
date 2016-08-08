@@ -80,7 +80,7 @@ public abstract class MultiAdapter<T> extends RecyclerView.Adapter<BaseViewHolde
         if(mList == null) {
             mList = new ArrayList<>();
         } else {
-           mList.clear();
+            mList.clear();
         }
         mList.addAll(list);
 
